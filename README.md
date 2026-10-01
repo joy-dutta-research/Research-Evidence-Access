@@ -16,7 +16,7 @@ Select a paper below to read its access instructions. Each paper page explains w
 1. Open the access-instructions page for the relevant manuscript.
 2. Contact the first author, corresponding author, or repository owner using the contact information in the manuscript or repository profile.
 3. Provide the GitHub username that should receive access and the manuscript title or submission identifier.
-4. After the request is verified, the account may be invited to the private repository with the **Read** role.
+4. After the request is verified, the account will receive an invitation to the private repository with the **Read** role. Access begins when the invitation is accepted.
 
 The Read role permits viewing and cloning the repository but does not permit pushing changes or administering the repository. Each complete research repository will be made public upon acceptance.
 

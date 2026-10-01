@@ -24,7 +24,7 @@ Editors, reviewers, and co-authors may request read-only access as follows:
 1. Contact the first author, corresponding author, or repository owner using the contact information provided in the manuscript or repository profile.
 2. Provide the GitHub username that should receive access.
 3. Include the manuscript title or submission identifier so the request can be matched to the correct repository.
-4. After the request is verified, the account may be invited as an outside collaborator with the **Read** role.
+4. After the request is verified, the account will receive an invitation as an outside collaborator with the **Read** role. Access begins when the invitation is accepted.
 
 The Read role permits viewing and cloning but does not permit pushing changes or administering the repository. GitHub access invitations should be accepted promptly. Temporary reviewer access may be removed after the review process is complete.
 
