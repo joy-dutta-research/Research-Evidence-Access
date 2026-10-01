@@ -9,6 +9,7 @@ Select a paper below to read its access instructions. Each paper page explains w
 | Venue | Manuscript | Access instructions |
 | --- | --- | --- |
 | IEEE Transactions on Network Science and Engineering (TNSE) | **Trustworthy Agentic O-RAN Security: A Framework for Safe Action, Governance, and Closed-Loop Verification** | [View access instructions](papers/ieee-tnse/trustworthy-agentic-o-ran-security/README.md) |
+| Future Generation Computer Systems (FGCS) | **Agentic Edge Intelligence: A Networking-Centric Blueprint for Trustworthy Edge Agents** | [View access instructions](papers/fgcs/agentic-edge-intelligence/README.md) |
 
 ## How access works
 
